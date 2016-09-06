@@ -1,0 +1,70 @@
+
+.fixed {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 2000px;
+	background-color: #99ccff;
+}
+
+.names {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.info {
+	font-family: 'Slabo 27px', serif;
+}
+
+.heading {
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+.jacob {
+
+	width: 500px;
+	margin: 20px auto;
+}
+
+.jname {
+	margin-left: 10px;
+}
+
+.jimg {
+	float: left;
+	margin: 0 0 1em 1em;
+}
+
+.tori {
+	width: 500px;
+	margin: 20px auto;
+}
+
+.timg {
+	float: left;
+	margin: 0 0 1em 1em;
+}
+
+.ashley {
+	width: 500px;
+	margin: 20px auto;
+}
+
+.aimg {
+	float: left;
+	margin: 0 0 1em 1em;
+}
+
+.isabel {
+	width: 500px;
+	margin: 20px auto;
+}
+
+.iimg {
+	float: left;
+	margin: 0 0 1em 1em;
+}
+
+* {
+	background-color: #99ffcc;
+}
